@@ -1,0 +1,13 @@
+# the host variable is in the inventory file
+host: 0.0.0.0
+pghost: hakolzorem333.postgres.database.azure.com
+pg_username: postgres
+pg_password: postgres
+LB_ip: 20.231.242.179
+okta_url: https://dev-16842391.okta.com
+okta_client_id: 0oa43gqp8bCGB2bLB5d7
+okta_client_secret: FMDk8CGoi35VAlEt0eaomu092t_c9UQuhiMkugtN 
+ansible_connection: ssh 
+ansible_port: 22
+ansible_user: adminuser  
+ansible_ssh_pass: Hakolzorem2022 
